@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://C:\Users\Dan.OLeFirst\AndroidStudioProjects\TheVeryRealHandyCapp\HandyCapp.iml" filepath="C:\Users\Dan.OLeFirst\AndroidStudioProjects\TheVeryRealHandyCapp\HandyCapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/TheVeryRealHandyCapp.iml" filepath="$PROJECT_DIR$/.idea/TheVeryRealHandyCapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheVeryRealHandyCapp.iml" filepath="$PROJECT_DIR$/TheVeryRealHandyCapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
